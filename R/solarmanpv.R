@@ -17,32 +17,9 @@
 #'
 #' @param appId
 #' @param appSecret
-#' @par
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-...
+#' @param email
+#' @param password
+#' @param ...
 #'
 #' @return
 #' @export
