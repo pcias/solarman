@@ -1,0 +1,87 @@
+// Copyright (C) 2024 (PCS) Przemysław Ciaś
+// 
+# Node.js
+#################
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# R
+#################
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rapp.history
+
+# R Markdown
+#################
+.Rmd
+*.Rmd
+.Rmd.swp
+.Rmd.swc
+.Rmd.swo
+.Rmd.bak
+
+# R environment files
+#################
+.Renviron
+.Renviron.swp
+.Renviron.swo
+.Renviron.bak
+
+# RStudio files
+#################
+.Rproj
+*.Rproj
+.Rproj.user/
+
+# Compiled Source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Others #
+##########
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+*~

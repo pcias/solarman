@@ -1,0 +1,20 @@
+{
+    "name": "solarpi",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node solarpiapp.js"
+    },
+    "dependencies": {
+        "axios": "^1.6.3",
+        "cookie-parser": "*",
+        "debug": "*",
+        "express": "*",
+        "forever": "*",
+        "http-errors": "*",
+        "minimist": "*",
+        "morgan": "*",
+        "nvm": "^0.0.4",
+        "pug": "*"
+    }
+}
